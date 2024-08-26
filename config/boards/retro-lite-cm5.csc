@@ -1,7 +1,7 @@
 # Rockchip RK3588S octa core 4/8/16GB RAM SoC NVMe USB3 USB-C GbE
 BOARD_NAME="Retro Lite CM5"
 BOARDFAMILY="rockchip-rk3588"
-BOARD_MAINTAINER="ginkage"
+BOARD_MAINTAINER=""
 BOOT_SOC="rk3588"
 BOOTCONFIG="retro-lite-cm5-rk3588s_defconfig"
 KERNEL_TARGET="vendor"
